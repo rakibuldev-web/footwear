@@ -75,3 +75,25 @@
     justify-content: center;
     text-align: center;
   }
+  .box{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+  }
+  .contain{
+    display: flex;
+  }
+  .text{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+  }
+  .position{
+    display: flex;
+
+  }
+  .line-2, a ,li{
+    list-style: none;
+    text-decoration: none;
+    -webkit-text-fill-color: black;
+  }
